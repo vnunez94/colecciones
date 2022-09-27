@@ -1,4 +1,6 @@
-﻿class Prograam
+﻿//arreglo
+//https://docs.microsoft.com/es-es/dotnet/csharp/programming-guide/arrays/
+class Prograam
 {
     static void Main(string[] args)
     {
