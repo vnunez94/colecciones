@@ -1,0 +1,15 @@
+D:\Desarrollo\INF512\Colecciones\Dictionary\bin\Debug\net6.0\Dictionary.exe
+D:\Desarrollo\INF512\Colecciones\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+D:\Desarrollo\INF512\Colecciones\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+D:\Desarrollo\INF512\Colecciones\Dictionary\bin\Debug\net6.0\Dictionary.dll
+D:\Desarrollo\INF512\Colecciones\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\Dictionary.dll
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+D:\Desarrollo\INF512\Colecciones\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll
